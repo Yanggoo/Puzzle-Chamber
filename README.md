@@ -1,3 +1,2 @@
-# VR-project-1
-这是一个VR密室逃脱游戏，你可以与场景中的物品交互，包括传送，遥控器，放大镜，网球拍等等，你也可以摘下帽子戴在自己的头上。
-另外你可以输入正确的密码（1442）获得门禁卡，在刷卡成功后即可拉开大门逃离。
+# README
+This project is based on Unity. To start the game, navigate to the Assets/Scenes path in the editor and run the YXDRoom scene. You can run this project on your computer and connect your VR device to the computer either through wired or wireless streaming. This way, you can experience the game using your VR headset.
